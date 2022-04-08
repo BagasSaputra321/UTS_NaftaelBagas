@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Suku Cadang</string>
+    
+    <string name="Kalimat1">Exhaust</string>
+    <string name="Kalimat2">Brake</string>
+    <string name="Kalimat3">Back Lamp</string>
+    <string name="Kalimat4">Rear Lamp</string>
+    <string name="Kalimat5">Rear Mirror</string>
+    <string name="Kalimat6">Seat</string>
+    <string name="Kalimat7">Tire</string>
+    <string name="Kalimat8">Wind Shield</string>
+    <string name="Kalimat9">Shock Breaker</string>
+    <string name="Kalimat10">UpsideDown Shock</string>
+</resources>
